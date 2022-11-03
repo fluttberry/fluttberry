@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fluttberry
-- 👀 I’m interested in flutter very much!
+- 👀 I’m interested in flutter developement very much!
 - 🌱 I’m currently learning flutter.
 - 💞️ I’m looking to collaborate on getting new experiences and teamworks.
 - 📫 How to reach me by email srvffx@gmail.com
